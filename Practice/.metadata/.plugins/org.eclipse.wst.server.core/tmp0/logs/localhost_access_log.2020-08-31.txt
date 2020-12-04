@@ -1,0 +1,10 @@
+127.0.0.1 - - [31/Aug/2020:11:55:57 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [31/Aug/2020:11:56:03 +0530] "GET /spring-mvc-example/ HTTP/1.1" 200 285
+127.0.0.1 - - [31/Aug/2020:12:07:37 +0530] "POST /spring-mvc-example/user HTTP/1.1" 200 263
+127.0.0.1 - - [31/Aug/2020:12:09:47 +0530] "POST /spring-mvc-example/user HTTP/1.1" 200 263
+127.0.0.1 - - [31/Aug/2020:12:16:19 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [31/Aug/2020:12:16:19 +0530] "GET /spring-mvc-user-reg-login/ HTTP/1.1" 200 551
+127.0.0.1 - - [31/Aug/2020:12:16:30 +0530] "GET /spring-mvc-user-reg-login/login.jsp HTTP/1.1" 200 547
+127.0.0.1 - - [31/Aug/2020:12:16:34 +0530] "GET /spring-mvc-user-reg-login/registration.jsp HTTP/1.1" 200 551
+127.0.0.1 - - [31/Aug/2020:12:16:36 +0530] "GET /spring-mvc-user-reg-login/login.jsp HTTP/1.1" 200 547
+127.0.0.1 - - [31/Aug/2020:12:16:48 +0530] "GET /spring-mvc-user-reg-login/registration.jsp HTTP/1.1" 200 551

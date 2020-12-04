@@ -1,0 +1,13 @@
+127.0.0.1 - - [02/Jul/2020:18:11:05 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [02/Jul/2020:18:11:06 +0530] "GET /LoginApp/ HTTP/1.1" 404 682
+127.0.0.1 - - [02/Jul/2020:18:11:32 +0530] "GET /LoginApp/login HTTP/1.1" 404 682
+127.0.0.1 - - [02/Jul/2020:20:09:09 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [02/Jul/2020:20:09:10 +0530] "GET /spring-mvc-user-reg-login/ HTTP/1.1" 200 551
+0:0:0:0:0:0:0:1 - - [02/Jul/2020:20:09:20 +0530] "GET /spring-mvc-user-reg-login/ HTTP/1.1" 200 551
+0:0:0:0:0:0:0:1 - - [02/Jul/2020:20:09:20 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [02/Jul/2020:20:09:33 +0530] "POST /spring-mvc-user-reg-login/register HTTP/1.1" 200 580
+127.0.0.1 - - [02/Jul/2020:20:11:56 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [02/Jul/2020:20:11:57 +0530] "GET /spring-mvc-user-reg-login/ HTTP/1.1" 200 551
+127.0.0.1 - - [02/Jul/2020:20:12:16 +0530] "GET /spring-mvc-user-reg-login/login.jsp HTTP/1.1" 200 547
+127.0.0.1 - - [02/Jul/2020:20:12:17 +0530] "GET /spring-mvc-user-reg-login/registration.jsp HTTP/1.1" 200 551
+127.0.0.1 - - [02/Jul/2020:20:12:29 +0530] "POST /spring-mvc-user-reg-login/register HTTP/1.1" 200 580

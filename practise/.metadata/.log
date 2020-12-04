@@ -1,0 +1,79 @@
+!SESSION 2020-05-16 19:09:56.111 -----------------------------------------------
+eclipse.buildId=4.4.2.201911201053-RELEASE
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data C:\Spring\practise -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2020-05-16 19:10:06.895
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-05-16 19:10:06.895
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@75f8d9b0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4f7ae05,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-05-16 19:10:16.249
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\siva'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2020-05-16 19:24:25.951
+!MESSAGE An error occurred while collecting items to be installed
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2020-05-16 19:24:25.951
+!MESSAGE session context was:(profile=DefaultProfile, phase=org.eclipse.equinox.internal.p2.engine.phases.Collect, operand=, action=).
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.egit,5.8.0.202005150925
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.egit.core,5.8.0.202005150925
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.egit.doc,5.8.0.202005150925
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.egit.gitflow,5.8.0.202005150925
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.egit.gitflow.ui,5.8.0.202005150925
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.egit.ui,5.8.0.202005150925
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jgit,5.8.0.202005132035
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jgit.archive,5.8.0.202005132059
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jgit.http.apache,5.8.0.202005132059
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jgit.lfs,5.8.0.202005132035
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jgit.lfs.server,5.8.0.202005132059
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: osgi.bundle,org.eclipse.jgit.ssh.apache,5.8.0.202005132059
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.egit,5.8.0.202005150925
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.egit.gitflow.feature,5.8.0.202005150925
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jgit,5.8.0.202005132101
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jgit.http.apache,5.8.0.202005132101
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jgit.lfs,5.8.0.202005132101
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2020-05-16 19:24:25.951
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jgit.ssh.apache,5.8.0.202005132101
+
+!ENTRY org.eclipse.ui 2 2 2020-05-16 19:31:32.382
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
